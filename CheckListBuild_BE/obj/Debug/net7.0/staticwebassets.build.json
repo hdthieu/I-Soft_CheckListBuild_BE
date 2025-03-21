@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dh2PcBtXTrJ9uIYNHQRzCP4Fz4JEHueeDJKOTjYYpxw=",
+  "Source": "CheckListBuild_BE",
+  "BasePath": "_content/CheckListBuild_BE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

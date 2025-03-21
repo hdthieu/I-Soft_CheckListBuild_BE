@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  checklist-api:
+    container_name: checklist_api
+    build: 
+      context: ./CheckListBuild_BE
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5000
+      - MongoDb__ConnectionString=mongodb://mongodb:27017
+      - MongoDb__DatabaseName=CheckListDB
+    networks:
+      - mongodbcontainer_default
+
+networks:
+  mongodbcontainer_default:
+    driver: bridge

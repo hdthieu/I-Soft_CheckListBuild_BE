@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\impl\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\impl\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\model\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\model\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\configs\\checklistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\configs\\checklistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\permissiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\permissiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\checklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\checklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\entities\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\entities\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\configs\\commonconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\configs\\commonconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\common.utils\\encrypthandshakefeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\common.utils\\encrypthandshakefeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\configs\\authtokenconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\configs\\authtokenconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\impl\\checklistserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\impl\\checklistserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\controllers\\checklistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\controllers\\checklistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\ichecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\ichecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\service\\impl\\checklistitemserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\service\\impl\\checklistitemserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|d:\\new folder\\checklistbuild\\checklistbuild_be\\checklistbuild_be\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35CAD4BF-19E2-4269-9E54-580FC7DE6D2D}|CheckListBuild_BE\\CheckListBuild_BE.csproj|solutionrelative:checklistbuild_be\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CheckListBuild_BE\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T03:32:59.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\appsettings.json",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\appsettings.json",
+              "RelativeToolTip": "CheckListBuild_BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T02:01:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckListConfiguration.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\CheckListConfiguration.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Configs\\CheckListConfiguration.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\CheckListConfiguration.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Configs\\CheckListConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:05:56.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckListItem.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\CheckListItem.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\CheckListItem.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\CheckListItem.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\CheckListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:35:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthServiceImpl.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\AuthServiceImpl.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\impl\\AuthServiceImpl.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\AuthServiceImpl.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\impl\\AuthServiceImpl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:32:47.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:06:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Controllers\\DatabaseController.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Controllers\\DatabaseController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:41:53.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Program.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Program.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Program.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:24:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceImpl.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\UserServiceImpl.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\impl\\UserServiceImpl.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\UserServiceImpl.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\impl\\UserServiceImpl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:25:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:22:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateRequestModel.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Model\\AuthenticateRequestModel.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Model\\AuthenticateRequestModel.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Model\\AuthenticateRequestModel.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Model\\AuthenticateRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:38:04.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:26:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckList.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\CheckList.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\CheckList.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\CheckList.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\CheckList.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:08:36.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\JobTitle.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\JobTitle.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\JobTitle.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\JobTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:47:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\Country.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Country.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:50:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\Department.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Department.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:50:57.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\Permission.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\Permission.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:51:22.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionDetails.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\PermissionDetails.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Entities\\PermissionDetails.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Entities\\PermissionDetails.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Entities\\PermissionDetails.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:51:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommonConfig.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\CommonConfig.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Configs\\CommonConfig.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\CommonConfig.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Configs\\CommonConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:48:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthTokenConfigModel.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\AuthTokenConfigModel.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Configs\\AuthTokenConfigModel.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Configs\\AuthTokenConfigModel.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Configs\\AuthTokenConfigModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:51:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CheckListItemController.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\CheckListItemController.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Controllers\\CheckListItemController.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\CheckListItemController.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Controllers\\CheckListItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:46:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EncryptHandShakeFEUtil.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Common.Utils\\EncryptHandShakeFEUtil.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Common.Utils\\EncryptHandShakeFEUtil.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Common.Utils\\EncryptHandShakeFEUtil.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Common.Utils\\EncryptHandShakeFEUtil.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:18:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckListController.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\CheckListController.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Controllers\\CheckListController.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Controllers\\CheckListController.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\Controllers\\CheckListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:36:49.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckListServiceImpl.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\CheckListServiceImpl.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\impl\\CheckListServiceImpl.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\CheckListServiceImpl.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\impl\\CheckListServiceImpl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:26:23.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\IUserService.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\IUserService.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\IUserService.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:24:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICheckListItem.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\ICheckListItem.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\ICheckListItem.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\ICheckListItem.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\ICheckListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:33:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheckListItemServiceImpl.cs",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\CheckListItemServiceImpl.cs",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\service\\impl\\CheckListItemServiceImpl.cs",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\service\\impl\\CheckListItemServiceImpl.cs",
+              "RelativeToolTip": "CheckListBuild_BE\\service\\impl\\CheckListItemServiceImpl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBPwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:01:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\appsettings.Development.json",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\appsettings.Development.json",
+              "RelativeToolTip": "CheckListBuild_BE\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T08:41:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Dockerfile",
+              "RelativeDocumentMoniker": "CheckListBuild_BE\\Dockerfile",
+              "ToolTip": "D:\\New folder\\CheckListBuild\\CheckListBuild_BE\\CheckListBuild_BE\\Dockerfile",
+              "RelativeToolTip": "CheckListBuild_BE\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-07T03:21:24.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
