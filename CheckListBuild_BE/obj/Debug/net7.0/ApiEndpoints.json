@@ -16,6 +16,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CheckListBuild_BE.Controllers.AuthController",
+    "Method": "GetUserProfile",
+    "RelativePath": "api/Auth/user-profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CheckListBuild_BE.Controllers.CheckListController",
     "Method": "Create",
     "RelativePath": "api/checklist/add",
@@ -39,6 +49,32 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[CheckListBuild_BE.Entities.CheckList, CheckListBuild_BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CheckListBuild_BE.Controllers.CheckListController",
+    "Method": "GetByUser",
+    "RelativePath": "api/checklist/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[CheckListBuild_BE.Entities.CheckList, CheckListBuild_BE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",

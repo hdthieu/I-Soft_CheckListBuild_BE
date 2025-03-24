@@ -1,6 +1,7 @@
 ﻿using CheckListBuild_BE.DTOs;
 using CheckListBuild_BE.Entities;
 using CheckListBuild_BE.service;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CheckListBuild_BE.Controllers
@@ -25,7 +26,33 @@ namespace CheckListBuild_BE.Controllers
                 return BadRequest(new { message = "Username or password is incorrect" });
             }
             var token = _authService.GenerateJwtToken(authUser);
-            return Ok(new { token });
+            return Ok(new
+            {
+                token,
+                userId = authUser.Id,
+                username = authUser.Username
+            });
+        }
+
+
+        [Authorize]
+        [HttpGet("user-profile")]
+        public IActionResult GetUserProfile()
+        {
+            var userId = User.FindFirst("UserId")?.Value;
+            var username = User.Identity?.Name;
+
+            if (userId == null)
+            {
+                return Unauthorized(new { message = "Token không hợp lệ hoặc đã hết hạn!" });
+            }
+
+            return Ok(new
+            {
+                message = $"Bạn đã đăng nhập!",
+                userId,
+                username
+            });
         }
 
     }

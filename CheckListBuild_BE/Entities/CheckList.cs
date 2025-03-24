@@ -10,8 +10,6 @@ namespace CheckListBuild_BE.Entities
         public string Title { get; set; } = string.Empty;
         public List<string> Items { get; set; } = new();
 
-        [BsonElement("userId")]
-        [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public String UserId { get; set; }  
     }
 }

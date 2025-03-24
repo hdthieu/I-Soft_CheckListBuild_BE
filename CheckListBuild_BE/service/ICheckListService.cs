@@ -11,6 +11,8 @@ namespace CheckListBuild_BE.service
         Task<List<CheckList>> GetAll();
         Task<CheckList> Update(string id, CheckList checkList);
         void Delete(string id);
+        Task<List<CheckList>> GetByUserId(string userId);
+
 
     }
 }

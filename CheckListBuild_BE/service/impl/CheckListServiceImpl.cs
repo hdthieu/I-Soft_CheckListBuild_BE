@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
 using MongoDB.Driver;
+using System.Diagnostics;
 
 namespace CheckListBuild_BE.service.impl
 {
@@ -16,6 +17,20 @@ namespace CheckListBuild_BE.service.impl
         {
             _cListCollection = dbContext.GetCollection<CheckList>("CheckList");
         }
+
+        public async Task<List<CheckList>> GetByUserId(string userId)
+        {
+            Debug.WriteLine(" Querying CheckList with UserId: " + userId);
+
+            var result = await _cListCollection.Find(c => c.UserId == userId).ToListAsync();
+
+            Debug.WriteLine(" Found CheckLists: " + (result?.Count ?? 0));
+            return result;
+        }
+
+
+
+
         public async Task<List<CheckList>> GetAll()
         {
             return await _cListCollection.Find(_ => true).ToListAsync();

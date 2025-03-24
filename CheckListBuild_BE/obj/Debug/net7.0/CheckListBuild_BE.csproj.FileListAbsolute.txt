@@ -34,7 +34,6 @@ D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CheckListBuild_BE.props
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CheckListBuild_BE.props
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\staticwebassets.pack.json
-D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\CheckLis.42C13EEF.Up2Date
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\CheckListBuild_BE.dll
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\refint\CheckListBuild_BE.dll
@@ -50,3 +49,5 @@ D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\bin\Debug\net7.
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\bin\Debug\net7.0\DotNetEnv.dll
+D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\CheckListBuild_BE.sourcelink.json
+D:\New folder\CheckListBuild\CheckListBuild_BE\CheckListBuild_BE\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
